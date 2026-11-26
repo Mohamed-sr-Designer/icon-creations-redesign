@@ -1,0 +1,4 @@
+_audit/raw/*.html
+__pycache__/
+*.pyc
+.claude/
